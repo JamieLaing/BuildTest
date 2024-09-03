@@ -38,3 +38,4 @@
 /home/jameslaing/Code/MVC/BuildTest/bin/Debug/net8.0/System.Net.Http.Formatting.dll
 /home/jameslaing/Code/MVC/BuildTest/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/jameslaing/Code/MVC/BuildTest/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/jameslaing/Code/MVC/BuildTest/obj/Debug/net8.0/BuildTest.sourcelink.json
